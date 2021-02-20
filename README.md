@@ -1,11 +1,11 @@
 # maven-java-app
 
 
-### Errors 
+### Commands
 
-<img src="Errors.png">
-
-
-<img src="EnvironmentVariables.png">
-
-<img src="mvn-v.png">
+- ``` mvn archetype:generate ```
+- ``` groupId : edu.nwmissouri.s530752 ```
+- ``` artifactId: maven-java-app ```
+- ``` version : default ```
+- ``` package: default ```
+- ``` Enter Y ```
